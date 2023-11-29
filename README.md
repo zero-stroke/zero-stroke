@@ -9,7 +9,7 @@ The programs I made are usually related to finance. Python is usually what I use
 - 👯 I’m looking to collaborate on anything finance related
 - 💬 Ask me about any of my repositories
 - 📫 How to reach me: Discord 
-- ⚡ Fun fact: My favorite movie is The Big Lebowski
+- ⚡ Fun fact: My favorite movie is The Big Lebowski 😎
 
 <!--
 **NoHedge/NoHedge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
