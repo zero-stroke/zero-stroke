@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### I like to code 
+The programs I made are usually related to finance. 
+
+
+
 <!--
 **NoHedge/NoHedge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
