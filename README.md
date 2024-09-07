@@ -8,6 +8,7 @@ The programs I made are usually related to finance. Python is usually what I use
 - 🌱 I’m currently learning how LSTMs work
 - 👯 I’m looking to collaborate on anything finance related
 - 💬 Ask me about any of my repositories
+- 💻 Visit my [website](https://www.dollars.lol) 
 - 📫 How to reach me: [Discord](https://discord.com/users/691513151241322497) 
 - ⚡ Fun fact: My favorite movie is The Big Lebowski 😎
 
