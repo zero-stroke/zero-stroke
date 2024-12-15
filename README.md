@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### I like to code 
+### Hi there 👋 I like to code 
 The programs I made are usually related to finance. Python is usually what I use, but sometimes I use C or Java. Other than programming, I like economics, finance, nutrition, and movies. 
 
 
