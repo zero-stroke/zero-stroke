@@ -7,7 +7,7 @@ Python is usually what I use, but sometimes I use C or Java. Other than programm
 - 👯 I’m looking to collaborate on making web apps
 - 💬 Ask me about any of my repositories
 - 💻 Visit my [website](https://www.shanez.dev) 
-- 📫 How to reach me: [Discord](https://discord.com/users/691513151241322497) 
+- 📫 How to reach me: [Discord](https://discord.com/users/691513151241322497) [Linkedin](https://www.linkedin.com/in/shane-zarechian/)
 - ⚡ Fun fact: My favorite movie is Reservoir Dogs 😎
 - 💖 Support me: https://ko-fi.com/shanezz 
 
