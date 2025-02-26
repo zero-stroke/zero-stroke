@@ -4,11 +4,11 @@ Python is usually what I use, but sometimes I use C or Java. Other than programm
 
 - 🔭 I’m currently working on building finance and economics tools
 - 🌱 I’m currently learning how LSTMs work
-- 👯 I’m looking to collaborate on anything finance related
+- 👯 I’m looking to collaborate on making web apps
 - 💬 Ask me about any of my repositories
 - 💻 Visit my [website](https://www.shanez.dev) 
 - 📫 How to reach me: [Discord](https://discord.com/users/691513151241322497) 
-- ⚡ Fun fact: My favorite movie is The Big Lebowski 😎
+- ⚡ Fun fact: My favorite movie is Reservoir Dogs 😎
 - 💖 Support me: https://ko-fi.com/shanezz 
 
 
