@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shane Zarechian 👋</h1>
-<h3 align="center">Data Engineering | Data Science | Backend Development</h3>
+<h3 align="center">Data Engineering | Backend Development | Data Science </h3>
 <!-- <h3 align="center">Data Engineer | Data Scientist | Backend Developmer</h3> -->
 
 I'm a Computer Science student at the University of New Hampshire focused on data science, machine learning, and data engineering. My work includes building ETL pipelines and creating user-facing web applications like QuantScope.
