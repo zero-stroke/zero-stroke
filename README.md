@@ -2,9 +2,16 @@
 <h3 align="center">Data Engineering | Backend Development | Data Science </h3>
 <!-- <h3 align="center">Data Engineer | Data Scientist | Backend Developer</h3> -->
 
-I'm a Computer Science student at the University of New Hampshire focused on data science, machine learning, and data engineering. My work includes building ETL pipelines and creating user-facing web applications like QuantScope.
+<div align="center"> 
+  
+  [LinkedIn](https://www.linkedin.com/in/shane-zarechian/) | [Email](mailto:shanezarechian@gmail.com) | [Portfolio](https://shanez.dev) | [Discord](https://discord.com/users/691513151241322497) | [X](https://x.com/shanezarechian) | [Ko-fi](https://ko-fi.com/shanezz)
+  
+</div>
 
-### 🛠️ Skills & Technologies
+
+I'm a Computer Science student at the University of New Hampshire focused on data science, machine learning, and data engineering. My work includes building ETL pipelines and creating user-facing web applications. I'm currently working on expanding features for QuantScope, learning about Bellman operators and reinforcement learning, and looking to collaborate on open-source web applications and data engineering projects.
+
+### Skills & Technologies
 
 I use Python for most of my work, along with these technologies:
 
@@ -16,20 +23,11 @@ I use Python for most of my work, along with these technologies:
 | **Testing & Scraping** | [![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)](https://docs.pytest.org/en/7.1.x/) [![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-142B44?style=for-the-badge&logo=none&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/) |
 
 
-### 🚀 Key Projects
+### Key Projects
 
 - [**QuantScope**](https://quantscope.io): A website utilizing Django, PostgreSQL, Polars, and Cloudflare to offer advanced stock screening with 1,000+ query combinations.
 - [**Automated Finance Pipelines**](https://fin-dagster-ui.cv/asset-groups/): Daily scheduled ETL workflows for ingesting, transforming, and modeling financial and economic time-series data.
 
-
-### 🎯 Current Goals
-
-- 🔭 I'm currently working on expanding features for QuantScope
-- 🌱 I'm currently learning about Bellman operators and reinforcement learning
-- 👯 I'm looking to collaborate on open-source web applications and data engineering projects
-- 💬 Ask me about any of my repositories
-- 💻 Visit my [Portfolio](https://shanez.dev)
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/shane-zarechian/) | [Email](mailto:shanezarechian@gmail.com) | [Discord](https://discord.com/users/691513151241322497) | [Ko-fi](https://ko-fi.com/shanezz)
 
 
 <p align="center">
