@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shane 👋</h1>
+<h1 align="center">Hi, I'm Shane 👨🏻‍💻</h1>
 <h3 align="center">Data Engineering | Backend Development | Data Science </h3>
 <!-- <h3 align="center">Data Engineer | Data Scientist | Backend Developer</h3> -->
 
