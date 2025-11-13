@@ -34,4 +34,3 @@ I use Python for most of my work, along with these technologies:
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=zero-stroke&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="Shane's GitHub Stats" />   -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zero-stroke&layout=compact&theme=nord&hide_border=true" alt="Shane's Top Languages" />
 </p>
-
