@@ -26,8 +26,8 @@ I use Python for most of my work, along with these technologies:
 ### Key Projects
 
 - [**QuantScope**](https://quantscope.io): A website utilizing Django, PostgreSQL, Polars, and Cloudflare to offer advanced stock screening with 1,000+ query combinations.
-- [**Automated Finance Pipelines**](https://fin-dagster-ui.cv/asset-groups/): Daily scheduled ETL workflows for ingesting, transforming, and modeling financial and economic time-series data.
-
+- [**Automated Finance Pipelines**]: Daily scheduled ETL workflows for ingesting, transforming, and modeling financial and economic time-series data.
+<!-- - // (https://fin-dagster-ui.cv/asset-groups/) -->
 
 
 <p align="center">
