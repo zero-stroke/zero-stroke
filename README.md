@@ -13,8 +13,6 @@ I'm a Computer Science student at the University of New Hampshire focused on dat
 
 ### Skills & Technologies
 
-I use Python for most of my work, along with these technologies:
-
 | Category | Key Technologies |
 | :--- | :--- |
 | **Data & ML** | [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![Polars](https://img.shields.io/badge/Polars-FFB300?style=for-the-badge&logo=polars&logoColor=black)](https://www.pola.rs/) [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/) [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/) [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/) |
